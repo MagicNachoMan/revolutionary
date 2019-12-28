@@ -524,29 +524,29 @@
         {
             "bufferView" : 36,
             "componentType" : 5126,
-            "count" : 482,
+            "count" : 430,
             "max" : [
                 1.4846827983856201,
-                4.271690368652344,
-                14.012374877929688
+                3.973897933959961,
+                13.848127365112305
             ],
             "min" : [
-                -6.881277084350586,
-                -3.8358850479125977,
-                -9.358909606933594
+                0.23468232154846191,
+                -3.4694976806640625,
+                8.86043930053711
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 37,
             "componentType" : 5126,
-            "count" : 482,
+            "count" : 430,
             "type" : "VEC3"
         },
         {
             "bufferView" : 38,
             "componentType" : 5123,
-            "count" : 948,
+            "count" : 804,
             "type" : "SCALAR"
         }
     ],
@@ -733,23 +733,23 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 5784,
+            "byteLength" : 5160,
             "byteOffset" : 16176604
         },
         {
             "buffer" : 0,
-            "byteLength" : 5784,
-            "byteOffset" : 16182388
+            "byteLength" : 5160,
+            "byteOffset" : 16181764
         },
         {
             "buffer" : 0,
-            "byteLength" : 1896,
-            "byteOffset" : 16188172
+            "byteLength" : 1608,
+            "byteOffset" : 16186924
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 16190068,
+            "byteLength" : 16188532,
             "uri" : "Small Stage V2.bin"
         }
     ]
