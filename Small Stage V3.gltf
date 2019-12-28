@@ -9,8 +9,7 @@
             "name" : "Scene",
             "nodes" : [
                 2,
-                3,
-                4
+                3
             ]
         }
     ],
@@ -50,26 +49,6 @@
         {
             "mesh" : 3,
             "name" : "Floor",
-            "rotation" : [
-                0.5,
-                -0.5,
-                -0.5,
-                0.4999999701976776
-            ],
-            "scale" : [
-                0.4000000059604645,
-                1,
-                0.5999999642372131
-            ],
-            "translation" : [
-                1.1712779998779297,
-                0.6130101680755615,
-                0.11003899574279785
-            ]
-        },
-        {
-            "mesh" : 4,
-            "name" : "Backdrop",
             "rotation" : [
                 0.5,
                 -0.5,
@@ -248,19 +227,6 @@
                     },
                     "indices" : 42,
                     "material" : 3
-                }
-            ]
-        },
-        {
-            "name" : "Plane.005",
-            "primitives" : [
-                {
-                    "attributes" : {
-                        "POSITION" : 43,
-                        "NORMAL" : 44
-                    },
-                    "indices" : 45,
-                    "material" : 2
                 }
             ]
         }
@@ -675,34 +641,6 @@
             "componentType" : 5123,
             "count" : 6,
             "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 43,
-            "componentType" : 5126,
-            "count" : 48,
-            "max" : [
-                0.23856306076049805,
-                3.9363913536071777,
-                13.37077522277832
-            ],
-            "min" : [
-                -6.881277084350586,
-                -3.3499810695648193,
-                10.934043884277344
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 44,
-            "componentType" : 5126,
-            "count" : 48,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 45,
-            "componentType" : 5123,
-            "count" : 138,
-            "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
@@ -920,26 +858,11 @@
             "buffer" : 0,
             "byteLength" : 12,
             "byteOffset" : 16188660
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 576,
-            "byteOffset" : 16188672
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 576,
-            "byteOffset" : 16189248
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 276,
-            "byteOffset" : 16189824
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 16190100,
+            "byteLength" : 16188672,
             "uri" : "Small Stage V3.bin"
         }
     ]
